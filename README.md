@@ -1,16 +1,23 @@
-## Hi there 👋
+# Vadim Kalduzov
 
-<!--
-**Nikon59/Nikon59** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Final-year Computer Science Student**  
+Interested in Software & Systems Engineering, Linux Platform Adaptation, and Computer Networks.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Areas of Focus
+* **Systems & Networking:** Linux Platform Support, Device Tree (DTS), OpenWrt Board Bring-Up, Network Switching, MIPS Architecture, Shell scripting.
+* **Software Development:** Java, Object-Oriented Programming, Relational Databases (SQL).
+* **Applied Computing:** Data Analysis & Machine Learning basics (Python).
+
+---
+
+### 🚀 Highlighted Project
+* **[OpenWrt Port: D-Link DIR-1260 R1](https://github.com/Nikon59/openwrt)**  
+  Hardware bring-up, Device Tree integration, and upstream patch configuration for the MediaTek MT7621DAT platform (preserving vendor NAND/UBI layout and NVMEM calibration routing).
+
+---
+
+### 📫 Contact & Academic Inquiries
+* **Email:** vadimkalduzov05@gmail.com
+* **Status:** Open to MPhil / PhD research opportunities and postgraduate studies.
