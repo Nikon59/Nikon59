@@ -1,23 +1,26 @@
 # Vadim Kalduzov
 
-**Final-year Computer Science Student**  
-Focusing on Software & Systems Engineering, Linux Platform Adaptation, and Computer Networks.
+**Computer Science Student**  
+Interested in Linux systems, OpenWrt firmware builds, and applied software development.
 
 ---
 
 ### Focus & Technical Background
-* **Systems & Networking:** Linux platform bring-up, Device Tree (DTS), OpenWrt, MIPS/ARM SoC architecture, Ethernet switching, UBI/NAND partition management, NVMEM calibration mapping.
-* **Software Engineering:** Java, relational database design (SQL), systems architecture.
-* **Applied Machine Learning:** Data preprocessing pipelines, model evaluation and baseline analysis (Python).
+
+* **Linux & Embedded:** Daily Linux administration (Arch Linux, Manjaro, ALT Linux), OpenWrt builds from source (Buildroot), Device Tree (DTS) editing, and working with MT7621/MT7981 router hardware.
+* **Programming & Scripting:** Python, Java, Bash scripting, and basic SQL.
+* **Applied Machine Learning:** Tabular data preprocessing, model evaluation, and ONNX export for local inference (Python).
 
 ---
 
 ### Featured Work
-* **[OpenWrt: D-Link DIR-1260 R1 Hardware Port](https://github.com/Nikon59/openwrt)** — [Upstream Pull Request #25233](https://github.com/openwrt/openwrt/pull/25233)  
-  Conducted board bring-up for the MediaTek MT7621DAT platform. Integrated Device Tree definitions, mapped vendor-compatible NAND/UBI storage layouts, configured NVMEM factory calibration routing, and submitted patches to the official OpenWrt master branch.
+
+* **[OpenWrt: D-Link DIR-1260 R1 Support](https://github.com/Nikon59/openwrt)** — **[Upstream Pull Request #25233](https://github.com/openwrt/openwrt/pull/25233)**  
+  Adapted a community patch for the D-Link DIR-1260 Rev. R1 router (MediaTek MT7621DAT) to the current OpenWrt branch. Fixed LED indicators and the 100 MB partition size limit in DTS, enabled USB port support, tested on hardware, and submitted a Pull Request upstream.
 
 ---
 
 ### Contact & Opportunities
+
 * **Email:** vadimkalduzov05@gmail.com
-* **Availability:** Open to MPhil / PhD research positions and postgraduate study opportunities.
+* **Availability:** Open to MPhil / PhD research positions, internships, and postgraduate study opportunities (Worldwide).
